@@ -18,7 +18,6 @@ Tecnologias usaadas no meu dia.
         <img alsgn="center" alt="javascript" 
         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <div style="display inline block"></br>
-    <div style="display inline block"></br>
         <img alsgn="center" alt="Typescript" 
         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <div style="display inline block"></br>
