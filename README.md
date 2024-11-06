@@ -32,11 +32,5 @@ Tecnologias usaadas no meu dia.
     <img alsgn="center" alt="Python" 
     src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <div style="display inline block"></br>
-    <img alsgn="center" alt="PHP" 
-    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></div><br>
-<div style="display inline block"></br>
-    <img alsgn="center" alt="Java" 
-    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></div><br>
-<div style="display inline block"></br>
-
+    
 Sou Graduando do Curso de Sistemas Para Internet, apaixonado por tecnologia.
